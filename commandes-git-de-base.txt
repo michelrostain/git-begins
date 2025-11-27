@@ -23,4 +23,4 @@ Receiving objects: 100% (3/3), done.
 miche@PC-Michel MINGW64 ~/Mes documents
 
 LA COMMANDE PULL : 
-
+Permet de mettre à jour tous les fichiers du REPO dans lequel on est, vers les fichiers en local sur l'ordi.
