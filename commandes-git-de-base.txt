@@ -1,0 +1,23 @@
+commandes git : 
+Add, commit et Push :
+
+PS C:\Users\miche\Documents\job1> git add .\job8.py (cible le fichier concerné)
+PS C:\Users\miche\Documents\job1> git commit -m "retour à la version 1" (ajoute  un message sur le readme)
+[main bbec6d4] retour à la version 1
+ 1 file changed, 4 deletions(-)
+PS C:\Users\miche\Documents\job1> git push (envoie la dernière version du fichier)
+
+
+Cloner document : 
+miche@PC-Michel MINGW64 ~
+$ cd 'Mes documents'/
+
+miche@PC-Michel MINGW64 ~/Mes documents
+$ git clone https://github.com/michelrostain/git-begins.git
+Cloning into 'git-begins'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+miche@PC-Michel MINGW64 ~/Mes documents
