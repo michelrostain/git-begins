@@ -24,3 +24,8 @@ miche@PC-Michel MINGW64 ~/Mes documents
 
 LA COMMANDE PULL : 
 Permet de mettre à jour tous les fichiers du REPO dans lequel on est, vers les fichiers en local sur l'ordi.
+
+CREER UNE NOUVELLE BRANCHE : 
+git branch 'nom de la branche" (crée la nouvelle branche)
+git branch (affiche le nom des branches dispo)
+git checkout 'nom de la branche' (va sur la nouvelle branche)
